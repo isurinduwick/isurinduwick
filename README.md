@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isurinduwick
+- 👋 Hi, I’m Isurindu 
 - 👀 I’m interested in building innovative software solutions, exploring the world of artificial intelligence (AI), and understanding the intricacies of distributed systems.
 - 🌱 I’m currently learning  Python, Java, Mobile (ios,android) Development, React,
 - 📫 How to reach me
