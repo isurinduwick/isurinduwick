@@ -18,19 +18,20 @@
 
 ---
 
-### 🛠️ **Skills**
-<p align="left">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge"/>
-  
-</p>
+### 🌐 **Skills**
+ 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,kotlin,react,flutter,java,figma,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,kotlin,react,flutter,java,,nodejs,dart" />
   </a>
 </p>
 
+🛠️ Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,figma,androidstudio,vscode" />
+  </a>
+</p>
 ---
 
 ### 🌟 **Profile Stats**
