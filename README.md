@@ -1,13 +1,49 @@
-- 👋 Hi, I’m Isurindu 
-- 👀 I’m interested in building innovative software solutions, exploring the world of artificial intelligence (AI), and understanding the intricacies of distributed systems.
-- 🌱 I’m currently learning  Python, Java, Mobile (ios,android) Development, React,
-- 📫 How to reach me
-     GitHub -isurinduwick
-     LinkedIn-https://www.linkedin.com/in/isurindu-wickramasinghe-0ab608213/
-- 😄 Pronouns: he/him
+<h1 align="center">👋 Hey there! I'm [Isurindu_Wickramasinghe]</h1>
+<p align="center">
+  https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+</p>
 
+<p align="center">
+  With a keen interest in creating seamless and intuitive user experiences, I strive to build mobile apps that are both functional and visually appealing. I am dedicated to mastering the latest tools and frameworks in mobile development, including Flutter and React Native. I enjoy working in collaborative environments, where I can contribute to building high-quality, performance-driven applications. Always eager to expand my skills, I am excited to grow within the dynamic field of mobile development and stay up-to-date with emerging technologies.
+</p>
 
-<!---
-isurinduwick/isurinduwick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🧑‍💻 **About Me**
+-🔭 I’m currently exploring mobile app development and experimenting with new features in Flutter and React Native.
+-🌱 I’m currently learning Dart for Flutter, JavaScript for React Native, and mobile UI/UX design principles.
+-🤔 I’m looking for help with optimizing app performance and integrating advanced features like push notifications and in-app purchases.
+-💬 Ask me about cross-platform app development, Flutter best practices, and mobile app UI/UX design.
+-📫 How to reach me: [https://www.linkedin.com/in/isurindu-wickramasinghe-0ab608213/]
+
+---
+
+### 🛠️ **Skills**
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge"/>
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)(https://skillicons.dev)
+ (https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+</p>
+
+---
+
+### 🌟 **Profile Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 **Connect With Me**
+<p align="left">
+  <a href="https://www.linkedin.com/in/isurindu-wickramasinghe-0ab608213/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="+https://github.com/isurinduwick" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+
+</p>
