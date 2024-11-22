@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there! I'm [Isurindu_Wickramasinghe]</h1>
+<h1 align="center">👋 Hey there!  <img src=(https://readme-typing-svg.demolab.com/?lines= i'm Isurindu Wickramasinghe)](https://git.io/typing-svg)>
 <p align="center">
  <img src= https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif>
 </p>
