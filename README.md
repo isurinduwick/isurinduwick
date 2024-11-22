@@ -1,4 +1,9 @@
-<p align="center">👋 <h1>Hey there!  <img src=https://readme-typing-svg.demolab.com/demo/?lines=Hi+there+im+Isurindu+Wickramasinghe> </h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+im+Isurindu+Wickramasinghe" />
+  </a>
+</p>
+
 <p align="center">
  <img src= https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif>
 </p>
