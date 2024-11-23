@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF703&width=435&lines=Hi+There+i'm+Isurindu+Wickramasinghe" />
   </a>
 </p>
+<img src =https://camo.githubusercontent.com/67311538f78a73883f5dad29f4191c06045a34d3d8efc1596d6820dde307f75f/68747470733a2f2f6772616e726f79616c6c65696761726170652e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323032312f30352f70726f6772616d6d65722e676966>
 
 <p align="center">
  <img src= https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif>
