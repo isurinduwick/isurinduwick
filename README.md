@@ -23,7 +23,7 @@
 - I’m currently learning Dart for Flutter, JavaScript for React Native, and mobile UI/UX design principles.
 - I’m looking for help with optimizing app performance and integrating advanced features like push notifications and in-app purchases.
 - Ask me about cross-platform app development, Flutter best practices, and mobile app UI/UX design.
-- How to reach me: [https://www.linkedin.com/in/isurindu-wickramasinghe-0ab608213/]
+
 
 ---
 
